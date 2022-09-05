@@ -29,10 +29,10 @@ Here are some ideas to get you started:
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Python | Java
-- 🌐 &nbsp; Android | Flutter | HTML | CSS | JavaScript | Bootstrap 
-- 🛢 &nbsp; MySQL | Firebase 
-- 🔧 &nbsp; Android Studio | PyCharm | Visual Studio code | IntellijIdea | Git
+- 💻 &nbsp; Python | Java | Javascript
+- 🌐 &nbsp; Android | Flutter | HTML | CSS | JavaScript | Bootstrap
+- 🛢 &nbsp; MySQL | Firebase | PostgreSQL
+- 🔧 &nbsp; Android Studio | Visual Studio code | IntellijIdea | Git
 <!-- 🖥 &nbsp; Adobe Xd | Illustrator | Photoshop | OpenShot -->
 
 <br>
