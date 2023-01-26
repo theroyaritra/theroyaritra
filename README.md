@@ -19,10 +19,10 @@ Here are some ideas to get you started:
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I’m currently learning Web and Mobile Application Development plus, working on my DSA knowledge.
+- 🔭 &nbsp; I’m currently into Web and Mobile Application Development plus, working on my DSA knowledge.
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.
 - 🎓 &nbsp; Studying Computer Science, Computer Programming, Data science and Civil Engineering.
-- 💼 &nbsp; Front-end web developer.
+- 💼 &nbsp; Full-Stack web developer.
 - 🌱 &nbsp; Enthusiast in Data Science and AI-ML.
 - ✍️ &nbsp; Reading books on spirituality and learning about latest tech trends can be counted as my hobbies/side hustles.
 - ⚡ &nbsp; Fun fact : I am pursuing dual degree - B.E. in Civil Engineering (BMSCE'24) as well as, B.S. in Data Science and Applications (IITM'24).
@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; Python | Java | Javascript
-- 🌐 &nbsp; Android | Flutter | HTML | CSS | JavaScript | Bootstrap
+- 🌐 &nbsp; Android | HTML | CSS | JavaScript | Bootstrap
 - 🛢 &nbsp; MySQL | Firebase | PostgreSQL
 - 🔧 &nbsp; Android Studio | Visual Studio code | IntellijIdea | Git
 <!-- 🖥 &nbsp; Adobe Xd | Illustrator | Photoshop | OpenShot -->
